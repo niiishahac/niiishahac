@@ -37,62 +37,46 @@ https://github.com/niiishahac/BankBalanceTracker
 ---
 
 ### 🛠️ Languages and Tools
-
-<!-- <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css&perline=6" />
-</p> -->
-<!-- <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<img src="https://skillicons.dev/icons?i=aws" width="50"/>
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-
-</p> -->
-
-
-<!-- <p align="center">
-<marquee behavior="alternate" direction="left" scrollamount="6">
-
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
-<img src="https://skillicons.dev/icons?i=docker" width="55"/>
-<img src="https://skillicons.dev/icons?i=aws" width="55"/>
-
-</marquee>
-</p> -->
-<!-- <p align="center">
-<marquee direction="left">
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb" />
-</marquee>
-
-<marquee direction="right">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,html,css" />
-</marquee>
-</p> -->
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<h3 align="center">🌐 3D Skills Orbit</h3>
-
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 </p>
+<h3 align="center">⚡ Languages & Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="1">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="1">
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="1">
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</p>
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg" />
+</picture>
+</p> 
 ---
 
 ### 📊 GitHub Stats
@@ -105,14 +89,4 @@ https://github.com/niiishahac/BankBalanceTracker
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
-</p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" 
-    src="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg" />
-</picture>
 </p>
