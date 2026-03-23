@@ -73,7 +73,7 @@ https://github.com/niiishahac/BankBalanceTracker
 
 </marquee>
 </p> -->
-<p align="center">
+<!-- <p align="center">
 <marquee direction="left">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb" />
 </marquee>
@@ -81,6 +81,28 @@ https://github.com/niiishahac/BankBalanceTracker
 <marquee direction="right">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,html,css" />
 </marquee>
+</p> -->
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<p align="center">
+
+<marquee direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</marquee>
+
+<marquee direction="right" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+</marquee>
+
 </p>
 ---
 
