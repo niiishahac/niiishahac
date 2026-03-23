@@ -84,32 +84,14 @@ https://github.com/niiishahac/BankBalanceTracker
 </p> -->
 <h3 align="center">🛠️ Languages & Tools</h3>
 
+<h3 align="center">🌐 3D Skills Orbit</h3>
+
 <p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=3D+Rotating+Skills+Orbit" />
-</a>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 </p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="0">
-</p>
-
-<p align="center">
-<a href="https://github.com/innng/innng">
-<img src="https://github.com/innng/innng/raw/master/assets/github-snake.svg" width="0">
-</a>
-</p>
-
-<p align="center">
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/github-contribution-graph.svg" width="0">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rohitkhatri1307/rohitkhatri1307/master/assets/skills.gif" width="400">
 </p>
 ---
 
