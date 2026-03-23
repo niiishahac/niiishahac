@@ -85,24 +85,31 @@ https://github.com/niiishahac/BankBalanceTracker
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=3D+Rotating+Skills+Orbit" />
+</a>
+</p>
 
-<marquee direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</marquee>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css" />
+</p>
 
-<marquee direction="right" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-</marquee>
+<p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="0">
+</p>
 
+<p align="center">
+<a href="https://github.com/innng/innng">
+<img src="https://github.com/innng/innng/raw/master/assets/github-snake.svg" width="0">
+</a>
+</p>
+
+<p align="center">
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/github-contribution-graph.svg" width="0">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rohitkhatri1307/rohitkhatri1307/master/assets/skills.gif" width="400">
 </p>
 ---
 
