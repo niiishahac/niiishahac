@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Passionate+about+coding...;⚡+Problem+Solving+Mindset;📊+Learning+Java;🧠+Mastering+DSA;📈+Exploring+Data+Analytic" />
 </p>
 ---
-<h3>💫 About Me</h3>
+<!-- <h3>💫 About Me</h3>
 
 <p align="center">
 
@@ -16,7 +16,34 @@
 • 🧠 Love learning new technologies <br>
 • 📈 Improving problem-solving skills daily
 
-</p>
+</p> -->
+<table>
+<tr>
+<td width="50%">
+
+### 💫 About Me
+
+- 💡 Passionate about coding & problem-solving  
+- 🚀 Currently diving into **Java, DSA & Data Analytics**  
+- 🧠 Love learning new technologies  
+- 📈 Improving problem-solving skills daily  
+
+</td>
+
+<td width="50%">
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&layout=compact&theme=default"
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&layout=compact" />
+</picture>
+</td>
+</tr>
+</table>
+
 ---
 
 <!--connect with me-->
@@ -90,6 +117,6 @@ https://github.com/niiishahac/BankBalanceTracker
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> -->
 
 </p>
