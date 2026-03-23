@@ -58,7 +58,7 @@ https://github.com/niiishahac/BankBalanceTracker
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
 <marquee behavior="alternate" direction="left" scrollamount="6">
 
 <img src="https://skillicons.dev/icons?i=java" width="55"/>
@@ -72,8 +72,16 @@ https://github.com/niiishahac/BankBalanceTracker
 <img src="https://skillicons.dev/icons?i=aws" width="55"/>
 
 </marquee>
-</p>
+</p> -->
+<p align="center">
+<marquee direction="left">
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb" />
+</marquee>
 
+<marquee direction="right">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,aws,html,css" />
+</marquee>
+</p>
 ---
 
 ### 📊 GitHub Stats
