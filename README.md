@@ -69,13 +69,18 @@
 <img src="https://leetcard.jacoblin.cool/nishakumari123?theme=dark&font=Fira%20Code&ext=contest" />
 </td>
 <td align="center">
-
-
-
+<p align="center">
+<a href="https://www.codechef.com/users/worth_fire_56">
+<img src="https://img.shields.io/badge/CodeChef-worth_fire_56-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/nisha23b7kct">
+<img src="https://img.shields.io/badge/GeeksforGeeks-nisha23b7kct-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
 </td>
 </tr>
 </table>
-</p>
 ---
 <!-- 🛠️ Languages and Tools -->
 <p align="center">
