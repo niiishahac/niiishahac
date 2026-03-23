@@ -1,18 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Nisha Kumari</h1>
+✨ Hi 👋, I'm 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E75B6&height=180&section=header&text=Nisha%20Kumari&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Passionate+about+coding...;⚡+Problem+Solving+Mindset;📊+Learning+Java;🧠+Mastering+DSA;📈+Exploring+Data+Analytic" />
+</p>
+<h3>💫 About Me</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Full+Stack+Enthusiast;Data+Analytics+Explorer" />
+
+• 💡 Passionate about coding & problem-solving <br>
+• 🚀 Currently diving into <b>Java, DSA & Data Analytics</b> <br>
+• 🧠 Love learning new technologies <br>
+• 📈 Improving problem-solving skills daily
+
 </p>
 
-<h3 align="center">
-Passionate about coding & problem-solving <br>
-Currently diving into Java, DSA & Data Analytics
-</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=niiishahac&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
