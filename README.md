@@ -123,13 +123,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niiishahac&show_icons=true&theme=tokyonight" />
+<!-- Front: Total Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=niiishahac&show_icons=true&theme=tokyonight&cache_seconds=6" width="500px" style="border:4px solid white; border-radius:15px;" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight" />
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> -->
+<!-- Back: Streak Stats overlayed -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight&cache_seconds=6" width="500px" style="margin-top:-500px; border:4px solid white; border-radius:15px;" />
 
 </p>
