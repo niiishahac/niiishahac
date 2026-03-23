@@ -26,7 +26,6 @@ https://github.com/niiishahac/BankBalanceTracker
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-kumari-b62a9432a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha-kumari-b62a9432a/" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/https://www.codechef.com/users/worth_fire_56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/worth_fire_56" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/worth_fire_56">
 <img src="https://cdn.simpleicons.org/codechef" width="40" />
 </a>
@@ -42,9 +41,7 @@ https://github.com/niiishahac/BankBalanceTracker
 <!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css&perline=6" />
 </p> -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java" width="50"/>
 <img src="https://skillicons.dev/icons?i=js" width="50"/>
@@ -58,6 +55,23 @@ https://github.com/niiishahac/BankBalanceTracker
 <img src="https://skillicons.dev/icons?i=html" width="50"/>
 <img src="https://skillicons.dev/icons?i=css" width="50"/>
 
+</p> -->
+
+
+<p align="center">
+<marquee behavior="alternate" direction="left" scrollamount="6">
+
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+<img src="https://skillicons.dev/icons?i=aws" width="55"/>
+
+</marquee>
 </p>
 
 ---
