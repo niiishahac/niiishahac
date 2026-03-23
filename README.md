@@ -39,8 +39,13 @@ https://github.com/niiishahac/BankBalanceTracker
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css&perline=6" />
+</p> -->
+<p align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60">
 </p>
 
 ---
