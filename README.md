@@ -6,6 +6,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Passionate+about+coding...;⚡+Problem+Solving+Mindset;📊+Learning+Java;🧠+Mastering+DSA;📈+Exploring+Data+Analytic" />
 </p>
+---
 <h3>💫 About Me</h3>
 
 <p align="center">
@@ -16,36 +17,36 @@
 • 📈 Improving problem-solving skills daily
 
 </p>
-
-
 ---
 
+<!--connect with me-->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Connect+with+me;Let's+build+something+cool;Follow+my+coding+journey" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nisha-kumari-b62a9432a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50"/>
+</a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/nishakumari123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nishakumari123/" height="50" width="50" /></a>
+<a href="https://www.codechef.com/users/worth_fire_56">
+<img src="https://cdn.simpleicons.org/codechef"  height="50" width="50" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/nisha23b7kct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/nisha23b7kct" height="70" width="70" /></a>
+  
+</p>
+---
+<p>
 ### 🔭 Current Project
 - 💰 Bank Balance Tracker  
 https://github.com/niiishahac/BankBalanceTracker
-
+  </p>
 ---
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-kumari-b62a9432a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha-kumari-b62a9432a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/worth_fire_56">
-<img src="https://cdn.simpleicons.org/codechef" width="40" />
-</a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nishakumari123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nishakumari123/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/nisha23b7kct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/nisha23b7kct" height="30" width="40" /></a>
-</p>
-
-
----
-
-### 🛠️ Languages and Tools
+<!-- 🛠️ Languages and Tools -->
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 </p>
 <h3 align="center">⚡ Languages & Tools</h3>
-
 <p align="center">
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="1">
 <img src="https://skillicons.dev/icons?i=java" height="55"/>
@@ -53,7 +54,6 @@ https://github.com/niiishahac/BankBalanceTracker
 <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
-
 <p align="center">
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="1">
 <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
@@ -61,7 +61,6 @@ https://github.com/niiishahac/BankBalanceTracker
 <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 <img src="https://skillicons.dev/icons?i=docker" height="55"/>
 </p>
-
 <p align="center">
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="1">
 <img src="https://skillicons.dev/icons?i=aws" height="55"/>
