@@ -60,14 +60,22 @@
 <img src="https://cdn.simpleicons.org/codechef"  height="50" width="50" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/nisha23b7kct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/nisha23b7kct" height="70" width="70" /></a>
-  
 </p>
----
-<p>
-### 🔭 Current Project
-- 💰 Bank Balance Tracker  
-https://github.com/niiishahac/BankBalanceTracker
-  </p>
+<h3 align="center">🏆 Competitive Programming</h3>
+<p align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://leetcard.jacoblin.cool/nishakumari123?theme=dark&font=Fira%20Code&ext=contest" />
+</td>
+<td align="center">
+
+
+
+</td>
+</tr>
+</table>
+</p>
 ---
 <!-- 🛠️ Languages and Tools -->
 <p align="center">
