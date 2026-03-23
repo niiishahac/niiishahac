@@ -42,10 +42,22 @@ https://github.com/niiishahac/BankBalanceTracker
 <!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,mongodb,mysql,postgres,docker,aws,html,css&perline=6" />
 </p> -->
+<h3 align="center">🛠️ Languages and Tools</h3>
+
 <p align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60">
+
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+
 </p>
 
 ---
