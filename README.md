@@ -1,5 +1,5 @@
+✨ Hi 👋, I'm
 
-✨ Hi 👋, I'm 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E75B6&height=180&section=header&text=Nisha%20Kumari&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
@@ -23,10 +23,10 @@
 
 ### 💫 About Me
 
-- 💡 Passionate about coding & problem-solving  
-- 🚀 Currently diving into **Java, DSA & Data Analytics**  
-- 🧠 Love learning new technologies  
-- 📈 Improving problem-solving skills daily  
+* 💡 Passionate about coding & problem-solving
+* 🚀 Currently diving into **Java, DSA & Data Analytics**
+* 🧠 Love learning new technologies
+* 📈 Improving problem-solving skills daily
 
 </td>
 
@@ -47,6 +47,7 @@
 ---
 
 <!--connect with me-->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Connect+with+me;Let's+build+something+cool;Follow+my+coding+journey" />
 </p>
@@ -123,12 +124,15 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
 
 <!-- Front: Total Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=niiishahac&show_icons=true&theme=tokyonight&cache_seconds=6" width="500px" style="border:4px solid white; border-radius:15px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=niiishahac&show_icons=true&theme=tokyonight&cache_seconds=6" width="500px" style="border:4px solid white; border-radius:15;" />
 
 <!-- Back: Streak Stats overlayed -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight&cache_seconds=6" width="500px" style="margin-top:-500px; border:4px solid white; border-radius:15px;" />
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight&cache_seconds=6" width="500px" style="margin-top:-500px; border:4px solid white; border-radius:15;" />
+
+</p>  
