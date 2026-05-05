@@ -101,6 +101,12 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
+<a href="https://github.com/niiishahac/niiishahac/actions/workflows/snake.yml">
+<img src="https://github.com/niiishahac/niiishahac/actions/workflows/snake.yml/badge.svg" alt="Generate Snake"/>
+</a>
+</p>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg"/>
